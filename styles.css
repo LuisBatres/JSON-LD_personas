@@ -1,0 +1,53 @@
+div#integrantes > div { display: none; }
+#Luis:checked~ div#Luis { display: block; }
+#Francisco:checked~ div#Francisco { display: block; }
+#Ivan:checked~ div#Ivan { display: block; }
+#Arturo:checked~ div#Arturo { display: block; }
+
+element.style {
+}
+svg {
+    border: none;
+}
+svg[Attributes Style] {
+    width: 800;
+    height: 600;
+    
+}
+user agent stylesheet
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+g[Attributes Style] {
+    transform: translate(250, 0);
+}
+user agent stylesheet
+:not(svg) {
+    transform-origin: 0px 0px;
+}
+
+.tab-content > .active, .pill-content > .active {
+    display: block;
+}
+.tab-content > .tab-pane, .pill-content > .pill-pane {
+    display: none;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+.link {
+    fill: none;
+    stroke: #DADFE1;
+    stroke-width: 1px;
+}
+
+path[Attributes Style] {
+    d: path("M 0 300 C 125 300 125 300 250 300");
+}
+user agent stylesheet
+:not(svg) {
+    transform-origin: 0px 0px;
+}
