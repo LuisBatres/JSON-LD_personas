@@ -1,0 +1,58 @@
+[
+{
+   "REPORT": "2321",
+   "DATE": "2012-03-18",
+   "STATE": "SONORA",
+   "GENDER": "MUJER",
+   "NAME": "María Asusena García Alvarado"
+}, 
+{
+   "REPORT": "2322",
+   "DATE": "2013-03-08",
+   "STATE": "VERACRUZ",
+   "GENDER": "HOMBRE",
+   "NAME": "Antonio Delgado Ramirez Ortíz"
+},
+{
+   "REPORT": "2322",
+   "DATE": "2013-03-08",
+   "STATE": "QUERETARO",
+   "GENDER": "HOMBRE",
+   "NAME": "Ignacio Martinéz Alvarez"
+},
+{
+   "REPORT": "2323",
+   "DATE": "2014-01-28",
+   "STATE": "CHIAPAS",
+   "GENDER": "HOMBRE",
+   "NAME": "Ricardo Valdez Ramirez"
+},
+{
+   "REPORT": "2324",
+   "DATE": "2014-01-29",
+   "STATE": "VERACRUZ",
+   "GENDER": "MUJER",
+   "NAME": "Aranza Aljandra Sanchez Sanchez"
+},
+{
+   "REPORT": "2325",
+   "DATE": "2014-01-31",
+   "STATE": "VERACRUZ",
+   "GENDER": "MUJER",
+   "NAME": "Rosenda Ibañez Mascaró"
+},
+{
+   "REPORT": "2326",
+   "DATE": "2014-02-07",
+   "STATE": "CHIAPAS",
+   "GENDER": "MUJER",
+   "NAME": "Irene Losada Pino"
+},
+{
+   "REPORT": "2327",
+   "DATE": "2014-02-09",
+   "STATE": "CHIAPAS",
+   "GENDER": "MUJER",
+   "NAME": "Ágata Frutos Ávila"
+}
+]
